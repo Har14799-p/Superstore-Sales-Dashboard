@@ -16,7 +16,12 @@ It visualizes sales performance, category trends, and regional insights.
 2. **Category & Subcategory Analysis**  
    - Sales by Category and Subcategory  
    - Category performance over months
-
+3. **Region & Map**
+   - Filled Map showing sales distribution by state or city.
+   - Bar Chart showing sales by region for comparison.
+   - Table View listing states with their sales and order counts.
+   - Interactive slicers for filtering by year and category.
+   
 **Insights**
 - Technology category has the highest revenue.
 - Q4 shows strong sales peaks across categories.
